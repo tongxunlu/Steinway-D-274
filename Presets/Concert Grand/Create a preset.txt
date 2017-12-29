@@ -1,0 +1,4 @@
+You can create your own presets by copying the "Standard" folder, and edit the samples by yourself with Notepad++ or another text editing program.
+I strongly recommend Notepad++ over Windows' default notepad, since it supports advanced formatting, and in general, it's faster at doing stuff.
+
+~ Keppy
