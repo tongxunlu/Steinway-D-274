@@ -16,13 +16,13 @@ Welcome to the Keppy's Steinway Piano project page on GitHub, where you can down
 <br><br>
 Please consider adding these lines to your video's description, to support the SoundFont:
 <br>
-"This soundfont was made by KaleidonKep99, you can find it here: https://github.com/KaleidonKep99/Keppy-Steinway-Piano"
+"This soundfont was made by KaleidonKep99, you can find it here: https://github.com/KaleidonKep99/KSP-Reborn"
 
 ## Wasn't it "realistic"?
 That was my original intent.
 <br>
 <br>
-All the feedback I got through e-mails actually made me change my objective for this project... Talking with a [close friend] (https://www.youtube.com/user/gingeas) helped me realize that.
+All the feedback I got through e-mails actually made me change my objective for this project... Talking with a [close friend](https://www.youtube.com/user/gingeas) helped me realize that.
 <br>
 From the idea of "Realism --> Good sound", I switched to "Improvements by other's feedback --> Good sound", which is good.
 <br>
