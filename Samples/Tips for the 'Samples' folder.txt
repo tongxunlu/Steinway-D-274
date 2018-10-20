@@ -1,3 +1,0 @@
-You can actually use Bright samples with the Grand sound scheme.
-
-Just rename the "Grand" folder to "Bright", or the opposite for the other folder.
